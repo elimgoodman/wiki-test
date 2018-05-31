@@ -6,4 +6,5 @@
 ## A group of things
 
 * [A page inside the group!](a-group-of-things/a-page-inside-the-group.md)
+* [Another amazing page](a-group-of-things/another-amazing-page.md)
 
